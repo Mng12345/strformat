@@ -19,6 +19,9 @@ public class StrFormatter {
         return this;
     }
 
+    public static String format(String )
+
+    @Override
     public String toString() {
         return this.stringBuilder.toString();
     }
